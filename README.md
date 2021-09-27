@@ -1,12 +1,16 @@
 # 🏏IPL-Data-Analysis
+A comprehensive analysis of the IPL matches data from all seasons to gather insights into performance of all teams , understand how various factors affect the match  and do probabilistic predictions
+for upcoming matches
+
 
 ## Technology Stack
 
-**Numpy for vector operations and mathematical fuctions**
+**Numpy**  for statistical computation vector operations and mathematical fuctions
 
-**Pandas for data cleaning manipulation and feature engineering**
+**Pandas** for data storage cleaning  manipulation and feature engineering
 
-**Seaborn and Matplotlib for visualization**
+**Seaborn and Matplotlib**  for visualization 
+
 
 ## Dataset and Raw Data format
 
@@ -17,5 +21,7 @@ The online resource to obtain complete dataset - [cricsheeet](https://cricsheet.
 
 
 Curated subset containing data from only the powewrplay overs - [powerplay](Data%20Sets/PowerPlay.xlsx)
+
+
 
 ## General Overview
