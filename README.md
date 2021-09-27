@@ -12,4 +12,10 @@
 
 The data set used for this project contains a bunch of yaml files each containing data for a given match
 
+
+The online resource to obtain complete dataset - [cricsheeet](https://cricsheet.org/downloads/ipl.zip)
+
+
+Curated subset containing data from only the powewrplay overs - [powerplay](./datasets/powerplay.xlsx)
+
 ## General Overview
