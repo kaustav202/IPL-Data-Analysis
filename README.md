@@ -1,5 +1,5 @@
 # 🏏IPL-Data-Analysis
-A comprehensive analysis of the IPL matches data from all seasons to gather insights into performance of all teams , understand how various factors affect the match  and do probabilistic predictions
+A comprehensive analysis of the IPL matches data from all seasons to gather insights into performance of the teams , understand how various factors affect the match  and do probabilistic predictions
 for upcoming matches
 
 
