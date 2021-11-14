@@ -1,9 +1,9 @@
 # 🏏IPL-Data-Analysis
-A comprehensive analysis of the IPL matches data from all seasons to gather insights into performance of the teams , understand how various factors affect the match  and do probabilistic predictions
+A comprehensive analysis of the IPL matches data from all seasons to gather insights into performance of the teams , understand how various factors affect the match  and do  predictions
 for upcoming matches
 
 
-## Technology Stack
+### Technology Stack
 
 **Numpy**  for statistical computation vector operations and mathematical fuctions
 
@@ -12,7 +12,7 @@ for upcoming matches
 **Seaborn and Matplotlib**  for visualization 
 
 
-## Dataset and Raw Data format
+### Dataset and Raw Data format
 
 The data set used for this project contains a bunch of yaml files each containing data for a given match
 
@@ -23,5 +23,3 @@ The online resource to obtain complete dataset - [cricsheeet](https://cricsheet.
 Curated subset containing data from only the powewrplay overs - [powerplay](Data%20Sets/PowerPlay.xlsx)
 
 
-
-## General Overview
